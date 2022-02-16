@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">Major Front-End Skills</h2>
 <table>
    <tr>
         <td><img src="https://img.icons8.com/officel/2x/react.png" width="100" alt="React.js"></td>
